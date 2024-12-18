@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BodyMassIndex</string>
+    <string name="text_calculate">Рассчитать</string>
+    <string name="text_input_weight">Введите ваш вес</string>
+    <string name="text_weight">Вес</string>
+    <string name="text_input_height">Введите ваш рост</string>
+    <string name="text_height">Рост</string>
+    <string name="text_index">Ваш индекс массы тела:</string>
+    <string name="underweight">thin\n</string>
 </resources>
