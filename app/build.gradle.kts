@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "ru.borisov.bodymassindex"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ru.borisov.bodymassindex"
